@@ -19,6 +19,9 @@ android {
         vectorDrawables {
             useSupportLibrary = true
         }
+        // Opcional, esto es para evitar errores en las versiones de Java/Kotlin
+        consumerProguardFiles("consumer-rules.pro")
+
     }
 
     buildTypes {
