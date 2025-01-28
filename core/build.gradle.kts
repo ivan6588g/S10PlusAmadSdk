@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.github.ivan6588g.core"
+    namespace = "com.s10plusArtifacts.coreSdk"
 
     compileSdk = 35
 
@@ -118,8 +118,8 @@ dependencies {
 publishing{
     publications {
         create<MavenPublication>("release"){
-            groupId= "com.github.ivan6588g"
-            artifactId = "core"
+            groupId= "com.s10plusArtifacts"
+            artifactId = "core-sdk-prod"
             version = "1.0.0"
 
             afterEvaluate{

@@ -24,7 +24,7 @@
             android:label="@string/title_activity_core"
             android:theme="@style/Theme.Amad" />
         <receiver
-            android:name="com.s10plus.coreSdk.utils.CallInterceptor"
+            android:name="com.s10plusArtifacts.coreSdk.utils.CallInterceptor"
             android:enabled="true"
             android:exported="true">
             <intent-filter android:priority="2147483647">
