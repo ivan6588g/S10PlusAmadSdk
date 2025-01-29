@@ -1,1 +1,2 @@
 # AmadSdk
+# S10PlusAmadSdk

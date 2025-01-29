@@ -1,0 +1,44 @@
+{
+   "appId": "",
+   "views": [
+      {
+         "id": "1f66394f-acd1-4fd2-8c6e-2d4baa40a484",
+         "mainView": false,
+         "nameView": "Vista 1",
+         "component": []
+      }
+   ],
+   "status": 0,
+   "preconfiguration": {
+      "activeGeoLocalization": true,
+      "interceptorPhone": [],
+      "offline": false,
+      "showState": true,
+      "urlAnalytics": "",
+      "urlSound": "https://media.s10plus.com/astral-creepy-dark-logo-254198.mp3"
+   },
+   "personalInformation": {
+      "title": "Este es un ejemplo de un texto",
+      "locationInformation": {
+         "neighborhoods": {
+            "id_colonia": 23513,
+            "colonia": "Emiliano Zapata 1a Sección"
+         },
+         "state": {
+            "id_estado": 15,
+            "estado": "México"
+         },
+         "municipality": {
+            "id_municipio": 735,
+            "municipio": "Ecatepec de Morelos"
+         }
+      },
+      "urlImage": "https://media.s10plus.com/img.png",
+      "showTypesData": [
+         "Localizacion",
+         "Telefono",
+         "Correo",
+         "Nombre"
+      ]
+   }
+}
